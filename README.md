@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm just an ordinary person who happens to love programming
+I'm just an ordinary person who happens to love programming ❤
 
 
 ## 🔗 Links
