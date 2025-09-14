@@ -21,3 +21,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IsranLie/IsranLie/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IsranLie/IsranLie/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=IsranLie&label=Profile%20views&color=fe3540&style=flat" alt="isranlie" /></p>
