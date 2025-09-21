@@ -12,7 +12,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isranlie&show_icons=true&theme=dracula&locale=en" alt="isranlie" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isranlie&theme=highcontrast" alt="isranlie"/></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isranlie&theme=highcontrast" alt="isranlie"/></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IsranLie/IsranLie/output/pacman-contribution-graph-dark.svg">
