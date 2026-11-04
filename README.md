@@ -22,7 +22,7 @@
 
 [![An image of @isranlie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/isranlie)](https://holopin.io/@isranlie)
 
-![My Universe badge](<img width="552" height="1000" alt="virtual-universe-26-badge" src="https://github.com/user-attachments/assets/98da2f5c-956b-4487-ab79-774ca52a5eb6" />)
+![My Universe badge](https://github.com/user-attachments/assets/98da2f5c-956b-4487-ab79-774ca52a5eb6)
 
 ### 🔗Social
 
